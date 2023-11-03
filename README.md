@@ -21,7 +21,8 @@ pip install --upgrade spark_ai_sdk
 Install from source with:
 
 ```sh
-python setup.py install
+#python setup.py install
+poerty build
 ```
 
 ## 如何使用
